@@ -4,9 +4,8 @@
 }
 .header{
     width: 100%;
-    height: 80px;
+    height: 87px;
     background-color: rgba(0, 0, 0, .7);
-    
 }
 
 .aa{
@@ -112,7 +111,7 @@ table td , th ,tr {
   }
 .footer{
 background-color: black;
-height: 120px;
+height: 129px;
 width: 100%;
 margin-top: 70px;
 

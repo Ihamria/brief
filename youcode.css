@@ -4,7 +4,7 @@
 }
 .header{
     width: 100%;
-    height: 80px;
+    height: 87px;
     background-color: rgba(0, 0, 0, .7);
     
 }
@@ -18,7 +18,7 @@
 body header ul li{
     display: inline-block;
     margin-top: 30px;
-    padding: 30px;
+    padding: 16px;
 }
 body header ul li a {
     color:  white;
@@ -138,8 +138,8 @@ text:nth-child(2){
 }
 
 .icon {
-margin-left:416px ;
-margin-top: -34px;
+margin-left:413px ;
+margin-top: -46px;
 }
 .icon:hover{
     color: transparent;
@@ -217,7 +217,7 @@ margin-top: -34px;
     font-family: 'Montserrat', sans-serif;
     line-height: 1.8 ;
     margin-left: 600px;
-    margin-top: -404px;
+    margin-top: -411px;
     height: 400px;
     
      
@@ -406,7 +406,7 @@ flex-basis: 33%;
   }
 .footer{
 background-color: black;
-height: 120px;
+height: 129px;
 width: 100%;
 margin-top: 70px;
 
